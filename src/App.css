@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+.scroll-div{ overflow: auto; max-height: 92vh;}
+.stickyIcons{ position: fixed; right: 0px; top: 200px; width: 50px;  background: #e5e7eb;}
+.stickyIcons ul{ margin: 0px; padding: 0px;}
+.stickyIcons ul li{ list-style: none;}
+.stickyIcons ul li img{ width: 30px;}
